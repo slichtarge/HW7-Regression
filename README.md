@@ -1,3 +1,5 @@
+[![hw7_regression](https://github.com/slichtarge/HW7-Regression/actions/workflows/test.yml/badge.svg)](https://github.com/slichtarge/HW7-Regression/actions/workflows/test.yml)
+
 # HW 7: logistic regression
 
 In this assignment, you'll implement a classifier using logistic regression, optimized with gradient descent.
