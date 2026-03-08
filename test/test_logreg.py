@@ -14,7 +14,7 @@ import numpy as np
 import sys
 import os
 
-# Adds the parent directory (project/) to the search path
+#adding the parent directory to the search path since apparently that was necessary
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from regression import logreg
 
